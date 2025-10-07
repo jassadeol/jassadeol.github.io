@@ -7,7 +7,7 @@ Hi, I’m Jasleen Deol! A product thinker, software engineer and UX strategist p
 - 2023 Hardware Engineer (AMD, pre-silicon)
 - 2024 Software Engineer (aerospace industry)
 - 2025 Business Analyst (public sector)
-- Now: Aspiring PM; Desire to combine my passion for tech, customer success and product
+- Now: Desire to combine my passion for tech, AI, customer success and product
 
 **In my free time, I love to:**
 - Hike mountains
