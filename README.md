@@ -1,15 +1,14 @@
-#Jasleen Deol
-Hi, I’m Jasleen! A product thinker, software engineer and UX strategist passionate about building meaningful experiences. Here you’ll find my case studies, product demos and reflections on solving real user problems.
 
-#About Me
-2022 McMaster University - B.Eng Computer Engineering and Management
-2023 Hardware Engineer (AMD, pre-silicon)
-2024 Software Engineer (aerospace industry)
-2025 Business Analyst (public sector)
-Now: Aspiring PM
-  - Desire to combine my passion for tech, customer success and product
+Hi, I’m Jasleen Deol! A product thinker, software engineer and UX strategist passionate about building meaningful experiences. Here you’ll find my case studies, product demos and reflections on solving real user problems.
 
-In my free time, I love to:
+##**About Me**
+- 2022 McMaster University - B.Eng Computer Engineering and Management
+- 2023 Hardware Engineer (AMD, pre-silicon)
+- 2024 Software Engineer (aerospace industry)
+- 2025 Business Analyst (public sector)
+- Now: Aspiring PM; Desire to combine my passion for tech, customer success and product
+
+**In my free time, I love to:**
 - Hike mountains
 - Dance Salsa
 - Teach music lessons
@@ -37,7 +36,7 @@ Product demos created using Lovable, Figma, Github and Visual Studio
 
 A silicon-valley startup that provides healthcare insurance solutions to small-mid sized companies across US. Below is product demo  to address recent client concerns regarding (long wait times, no follow up, failure to notify about policy cancellations or changes) as derived from from [bbb.org](http://bbb.org/):
 
-[SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/)
+[SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/) {:target="_blank" rel="noopener"}
 
 
 # Boomerang
