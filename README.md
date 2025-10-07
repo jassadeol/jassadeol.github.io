@@ -1,6 +1,19 @@
-# jassadeol.github.io
-
+#Jasleen Deol
 Hi, I’m Jasleen! A product thinker, software engineer and UX strategist passionate about building meaningful experiences. Here you’ll find my case studies, product demos and reflections on solving real user problems.
+
+#About Me
+2022 McMaster University - B.Eng Computer Engineering and Management
+2023 Hardware Engineer (AMD, pre-silicon)
+2024 Software Engineer (aerospace industry)
+2025 Business Analyst (public sector)
+Now: Aspiring PM
+  - Desire to combine my passion for tech, customer success and product
+
+In my free time, I love to:
+- Hike mountains
+- Dance Salsa
+- Teach music lessons
+- Vibe code hehe
 
 **Navigation:**
 
@@ -26,7 +39,6 @@ A silicon-valley startup that provides healthcare insurance solutions to small-m
 
 [SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/)
 
-https://preview--simply-care-proto.lovable.app/
 
 # Boomerang
 
@@ -34,7 +46,6 @@ During a recent interview with this Toronto-based startup, the product designer 
 
 [boomerang-pathways-app](https://preview--boomerang-pathways-app.lovable.app/dashboard) 
 
-https://preview--boomerang-pathways-app.lovable.app/dashboard
 
 # Toastmaster AI coach
 
@@ -44,19 +55,14 @@ This is personal project I am developing using Python, React and Typescript. It 
 
 [Toastmasters Coach - Website](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=1-2&t=MlNnxMR0nzXEOGul-1&starting-point-node-id=1%3A2)
 
-https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=1-2&t=MlNnxMR0nzXEOGul-1&starting-point-node-id=1%3A2
-
-![image.png](attachment:9c57a739-809e-4989-a948-e37ba670374c:image.png)
 
 # Connected Hearts
 
 A personal project created using Lovable made for couples who want to deepen their connection or use on a first few dates to help with spark.
 
-The app allows you to simultaneously record answers after each prompt. It also does analysis on the answers and finds common grounds for couples to connect.
+The app allows you to simultaneously record answers after each prompt. It also does analysis on the answers and finds common grounds for couples to connect, while upleveling the questions. 
 
-![image.png](attachment:a7de4b5b-7273-40a7-b1a9-df3f60b2011d:image.png)
-
-![image.png](attachment:5c144b8c-568a-45f4-9879-24cacceedcb0:image.png)
+[Connected Hearts - Website](https://preview--spark-conversations-ai-crafted.lovable.app/)
 
 ## Resume and Contact
 
