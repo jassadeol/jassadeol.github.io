@@ -37,7 +37,7 @@ Product demos created using Lovable, Figma, Github and Visual Studio
 
 A silicon-valley startup that provides healthcare insurance solutions to small-mid sized companies across US. Below is product demo  to address recent client concerns regarding (long wait times, no follow up, failure to notify about policy cancellations or changes) as derived from from [bbb.org](http://bbb.org/):
 
-[SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/) {:target="_blank" rel="noopener"}
+[SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/) 
 
 
 # Boomerang
