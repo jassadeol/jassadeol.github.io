@@ -2,6 +2,7 @@
 Hi, I’m Jasleen Deol! A product thinker, software engineer and UX strategist passionate about building meaningful experiences. Here you’ll find my case studies, product demos and reflections on solving real user problems.
 
 ##**About Me**
+- 2021 Fullstack Software/Systems Engineer (aerospace industry)
 - 2022 McMaster University - B.Eng Computer Engineering and Management
 - 2023 Hardware Engineer (AMD, pre-silicon)
 - 2024 Software Engineer (aerospace industry)
@@ -50,7 +51,7 @@ During a recent interview with this Toronto-based startup, the product designer 
 
 A public-speaking web app that acts like your personal AI Coach.
 
-This is personal project I am developing using Python, React and Typescript. It incorporates OpenAI API along with NLTK and Whisper.
+This is personal project I am developing using Python, React, Typescript and PostgreSQL. It incorporates OpenAI API along with NLTK and Whisper.
 
 [Toastmasters Coach - Website](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=1-2&t=MlNnxMR0nzXEOGul-1&starting-point-node-id=1%3A2)
 
