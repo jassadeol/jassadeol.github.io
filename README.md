@@ -38,6 +38,21 @@ timeline
     Now  : Product Manager (In Pursuit)
          : Tech × AI × Customer Success
 ```
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FFE4E9','primaryTextColor':'#2D3748','primaryBorderColor':'#FF69B4','lineColor':'#FF69B4','secondaryColor':'#E8D5F2','tertiaryColor':'#FFE4E9','background':'#FFFFFF','mainBkg':'#FFE4E9','secondBkg':'#E8D5F2'}}}%%
+timeline
+    title Professional Evolution
+    2021 : [Fullstack Software]/Systems Engineer
+         : Aerospace Industry
+    2022 : Computer Engineering & Management
+         : McMaster University
+    2023 : Hardware Engineer (Pre-Silicon)
+         : AMD
+    2024 : Software Engineer
+         : Aerospace Industry
+    2025 : Product Analyst
+         : Public Sector
+    Now  : Product Manager (In Pursuit)
+         : Tech × AI × Customer Success
 
 ### 💡 When I'm Not Shipping Products
 
@@ -226,7 +241,7 @@ timeline
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jassadeol&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
