@@ -167,7 +167,7 @@ approach: Data-driven decisions + Human-centered design
 
 ## 📫 Let's Connect
 
-**Open to Product Management opportunities | Passionate about AI-powered solutions | Ready to ship products that matter**
+**Open to Product Management opportunities ** | **Passionate about AI-powered solutions ** | ** Ready to ship products that matter**
 
 <p align="center">
   <a href="https://linkedin.com/in/jasleen-deol"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -178,3 +178,10 @@ approach: Data-driven decisions + Human-centered design
 <p align="center">
   <i>"Building products is not about the features you ship, but the problems you solve"</i>
 </p>
+
+
+
+
+
+
+
