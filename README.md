@@ -62,7 +62,7 @@ approach: Data-driven decisions + Human-centered design
 ### 🛠️ Product Demos
 *Interactive prototypes addressing real user problems*
 
-#### 🏢 [SimplyInsured - Health Insurance Made Simple](YOUR_SIMPLYINSURED_DEMO_LINK)
+#### 🏢 [SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/)
 
 **🎯 Problem Statement**
 
@@ -80,7 +80,7 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-#### 📊 [Boomerang App (Startup Project)](YOUR_BOOMERANG_DEMO_LINK)
+#### 📊 [Boomerang App (Startup Project)](https://preview--boomerang-pathways-app.lovable.app/auth)
 
 **🎯 Product Context**
 
@@ -95,7 +95,7 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-#### 🎤 [Toastmaster AI Coach - AI Public Speaking Coach](YOUR_TOASTMASTER_DEMO_LINK)
+#### 🎤 [Toastmaster AI Coach - AI Public Speaking Coach](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=0-1&t=MlNnxMR0nzXEOGul-1)
 
 **🎯 Product Vision**
 
@@ -112,7 +112,7 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-#### 💕 [Connected Hearts - Relationship Deepening App](YOUR_CONNECTED_HEARTS_DEMO_LINK)
+#### 💕 [Connected Hearts - Relationship Deepening App](https://preview--spark-conversations-ai-crafted.lovable.app/)
 
 **🎯 Product Innovation**
 
