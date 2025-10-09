@@ -1,7 +1,7 @@
 # Hi, I'm Jasleen Deol 👋
 
 <div align="center">
-  <h2>Product Thinker 💭 | Software Engineer 💻 | UX Strategist 🎨</h2>
+  <h2>Product Thinker | Software Engineer 💻 | UX Strategist </h2>
   <h3>Building Meaningful Experiences ✨</h3>
 </div>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 current_focus: Product Management + AI + Customer Success
@@ -42,9 +42,9 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-## 🎯 Product Portfolio
+## Product Portfolio
 
-### 📊 Case Studies
+### Case Studies
 *Deep-dive analyses showcasing product thinking and market research*
 
 #### 🎓 [Boomerang Alumni B2C App](https://www.notion.so/Boomerang-Alumni-B2C-App-2658ec37e04480b794f2d4687b2aee1c?pvs=21)
@@ -59,17 +59,17 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-### 🛠️ Product Demos
+### Product Demos
 *Interactive prototypes addressing real user problems*
 
 #### 🏢 [SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/)
 
-**🎯 Problem Statement**
+**Problem Statement**
 
 **Client Pain Points** (derived from BBB.org reviews):
-- ⏰ Extended wait times for customer support
-- 📞 Lack of proactive follow-up  
-- ⚠️ No notification system for policy changes/cancellations
+- Extended wait times for customer support
+- Lack of proactive follow-up  
+- No notification system for policy changes/cancellations
 
 **Solution Approach:**
 - Real-time customer support dashboard
@@ -82,7 +82,7 @@ approach: Data-driven decisions + Human-centered design
 
 #### 📊 [Boomerang App (Startup Project)](https://preview--boomerang-pathways-app.lovable.app/auth)
 
-**🎯 Product Context**
+** Product Context**
 
 **Background:** Created post-interview with Toronto-based startup based on insights from product designer about strategic direction
 
@@ -95,16 +95,16 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-#### 🎤 [Toastmaster AI Coach - AI Public Speaking Coach](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=0-1&t=MlNnxMR0nzXEOGul-1)
+#### [Toastmaster AI Coach - AI Public Speaking Coach](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=0-1&t=MlNnxMR0nzXEOGul-1)
 
-**🎯 Product Vision**
+**Product Vision**
 
 **Concept:** Personal AI-powered public speaking coach
 
 **Features:**
-- 🎙️ Real-time speech analysis
-- 📊 Performance metrics & insights
-- 🤖 AI-driven coaching recommendations
+- Real-time speech analysis
+- Performance metrics & insights
+- AI-driven coaching recommendations
 
 **Tech Stack:** Python, React, TypeScript, PostgreSQL, OpenAI API, NLTK, Whisper
 
@@ -114,17 +114,17 @@ approach: Data-driven decisions + Human-centered design
 
 #### 💕 [Connected Hearts - Relationship Deepening App](https://preview--spark-conversations-ai-crafted.lovable.app/)
 
-**🎯 Product Innovation**
+** Product Innovation**
 
 **Problem Solved:** Surface-level conversations limiting relationship depth
 
 **Background:** Silicon Valley startup concept addressing relationship communication challenges
 
 **Key Features:**
-- 🎯 AI-curated conversation prompts
-- 🎥 Simultaneous answer recording
-- 🤝 Common ground analysis
-- 📈 Progressive question difficulty
+- AI-curated conversation prompts
+- Simultaneous answer recording
+- Common ground analysis
+- Progressive question difficulty
 
 **Impact:** Helps couples deepen connections through meaningful dialogue
 
@@ -132,7 +132,7 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
 ### Core Competencies
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-Expert-6366F1?style=flat-square)
@@ -155,7 +155,7 @@ approach: Data-driven decisions + Human-centered design
 
 ---
 
-## 📈 What Makes My Approach Different
+## What Makes My Approach Different
 
 ✅ **Engineering background** → Deep technical empathy with development teams  
 ✅ **Hardware experience** → Understanding of full product lifecycle  
