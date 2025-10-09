@@ -47,37 +47,28 @@ approach: Data-driven decisions + Human-centered design
 ### 📊 Case Studies
 *Deep-dive analyses showcasing product thinking and market research*
 
-<table>
-<tr>
-<td width="50%">
-
 #### 🎓 [Boomerang Alumni B2C App](https://www.notion.so/Boomerang-Alumni-B2C-App-2658ec37e04480b794f2d4687b2aee1c?pvs=21)
+
 **Focus:** Community engagement & alumni networking  
 **Key Skills:** Market research, user journey mapping, competitive analysis
 
-</td>
-<td width="50%">
-
 #### 🤝 [Product Case Analysis: Includ](https://www.notion.so/Product-Case-Analysis-Includ-2418ec37e044801fb2a6e48673f1524f?pvs=21)
+
 **Focus:** Inclusive product design  
 **Key Skills:** Accessibility research, stakeholder analysis
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🛠️ Product Demos
 *Interactive prototypes addressing real user problems*
 
-<details>
-<summary><b>🏢 SimplyInsured - Health Insurance Made Simple </b></summary>
+#### 🏢 [SimplyInsured - Health Insurance Made Simple](YOUR_SIMPLYINSURED_DEMO_LINK)
 
-#### 🎯 Problem Statement
+**🎯 Problem Statement**
+
 **Client Pain Points** (derived from BBB.org reviews):
 - ⏰ Extended wait times for customer support
-- 📞 Lack of proactive follow-up
+- 📞 Lack of proactive follow-up  
 - ⚠️ No notification system for policy changes/cancellations
 
 **Solution Approach:**
@@ -87,12 +78,12 @@ approach: Data-driven decisions + Human-centered design
 
 **Tech Stack:** Lovable, Figma, React
 
-</details>
+---
 
-<details>
-<summary><b>📊 Boomerang App (Startup Project)</b></summary>
+#### 📊 [Boomerang App (Startup Project)](YOUR_BOOMERANG_DEMO_LINK)
 
-#### 🎯 Product Context
+**🎯 Product Context**
+
 **Background:** Created post-interview with Toronto-based startup based on insights from product designer about strategic direction
 
 **Delivered:**
@@ -102,12 +93,12 @@ approach: Data-driven decisions + Human-centered design
 
 **Tech Stack:** Lovable, React
 
-</details>
+---
 
-<details>
-<summary><b>🎤 Toastmaster AI Coach - AI Public Speaking Coach</b></summary>
+#### 🎤 [Toastmaster AI Coach - AI Public Speaking Coach](YOUR_TOASTMASTER_DEMO_LINK)
 
-#### 🎯 Product Vision
+**🎯 Product Vision**
+
 **Concept:** Personal AI-powered public speaking coach
 
 **Features:**
@@ -119,13 +110,15 @@ approach: Data-driven decisions + Human-centered design
 
 **Status:** 🚧 In Development
 
-</details>
+---
 
-<details>
-<summary><b>❤️ Connected Hearts - Relationship Deepening App</b></summary>
+#### 💕 [Connected Hearts - Relationship Deepening App](YOUR_CONNECTED_HEARTS_DEMO_LINK)
 
-#### 🎯 Product Innovation
+**🎯 Product Innovation**
+
 **Problem Solved:** Surface-level conversations limiting relationship depth
+
+**Background:** Silicon Valley startup concept addressing relationship communication challenges
 
 **Key Features:**
 - 🎯 AI-curated conversation prompts
@@ -136,8 +129,6 @@ approach: Data-driven decisions + Human-centered design
 **Impact:** Helps couples deepen connections through meaningful dialogue
 
 **Tech Stack:** Lovable, AI/ML integration
-
-</details>
 
 ---
 
