@@ -70,7 +70,7 @@ timeline
 </td>
 <td width="50%">
 
-#### 🤝 Product Case Analysis: Includ
+#### 🤝 [Product Case Analysis: Includ](https://www.notion.so/Product-Case-Analysis-Includ-2418ec37e044801fb2a6e48673f1524f?pvs=21)
 
 **Focus:** Inclusive product design
 
