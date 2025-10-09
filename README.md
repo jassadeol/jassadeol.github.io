@@ -1,75 +1,236 @@
+# Hi, I'm Jasleen Deol 👋
 
-Hi, I’m Jasleen Deol! A product thinker, software engineer and UX strategist passionate about building meaningful experiences. Here you’ll find my case studies, product demos and reflections on solving real user problems.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Product+Thinker+%F0%9F%92%AD;Software+Engineer+%F0%9F%92%BB;UX+Strategist+%F0%9F%8E%A8;Building+Meaningful+Experiences+%E2%9C%A8)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasleen-deol)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasleen.k.deol@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1z24Uncn0DqgzQFkIgkTTZXjIBGJwGaDm/view?usp=sharing)
 
-**About Me**
-- 2021 Fullstack Software/Systems Engineer (aerospace industry)
-- 2022 McMaster University - B.Eng Computer Engineering and Management
-- 2023 Hardware Engineer (AMD, pre-silicon)
-- 2024 Software Engineer (aerospace industry)
-- 2025 Product Analyst (public sector)
-- Now: Desire to combine my passion for tech, AI, customer success and product
+</div>
 
-**In my free time, I love to:**
-- Hike mountains
-- Dance Salsa
-- Teach music lessons
-- Vibe code hehe
+---
 
-**Navigation:**
+## 🚀 About Me
 
-- 🔍 Case Studies
-- 🎥 Product Demos
-- 📄 Resume & Contact
+```yaml
+current_focus: Product Management + AI + Customer Success
+mission: Transform user pain points into delightful product experiences
+approach: Data-driven decisions + Human-centered design
+```
 
-# Case Studies
+### 📍 Career Journey
 
-Product Case Analysis created for few companies using Notion, thorough market research 
+```mermaid
+timeline
+    title Professional Evolution
+    2021 : Fullstack Software/Systems Engineer
+         : Aerospace Industry
+    2022 : B.Eng Computer Engineering & Management
+         : McMaster University
+    2023 : Hardware Engineer (Pre-Silicon)
+         : AMD
+    2024 : Software Engineer
+         : Aerospace Industry
+    2025 : Product Analyst
+         : Public Sector
+    Now  : Product Manager (In Pursuit)
+         : Tech × AI × Customer Success
+```
 
-[Boomerang Alumni B2C App](https://www.notion.so/Boomerang-Alumni-B2C-App-2658ec37e04480b794f2d4687b2aee1c?pvs=21) 
+### 💡 When I'm Not Shipping Products
 
-[Product Case Analysis: Includ](https://www.notion.so/Product-Case-Analysis-Includ-2418ec37e044801fb2a6e48673f1524f?pvs=21) 
+<table>
+<tr>
+<td width="25%" align="center">🏔️<br><b>Mountain Hiking</b></td>
+<td width="25%" align="center">💃<br><b>Salsa Dancing</b></td>
+<td width="25%" align="center">🎵<br><b>Music Teaching</b></td>
+<td width="25%" align="center">👨‍💻<br><b>Vibe Coding</b></td>
+</tr>
+</table>
 
-# Product Demos
+---
 
-Product demos created using Lovable, Figma, Github and Visual Studio
+## 🎯 Product Portfolio
 
-## SimplyInsured
+### 📊 Case Studies
+> *Deep-dive analyses showcasing product thinking and market research*
 
-A silicon-valley startup that provides healthcare insurance solutions to small-mid sized companies across US. Below is product demo  to address recent client concerns regarding (long wait times, no follow up, failure to notify about policy cancellations or changes) as derived from from [bbb.org](http://bbb.org/):
+<table>
+<tr>
+<td width="50%">
 
-[SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/) 
+#### 🎓 [Boomerang Alumni B2C App](https://www.notion.so/Boomerang-Alumni-B2C-App-2658ec37e04480b794f2d4687b2aee1c?pvs=21)
 
+**Focus:** Community engagement & alumni networking
 
-## Boomerang
+**Key Skills:** Market research, user journey mapping, competitive analysis
 
-During a recent interview with this Toronto-based startup, the product designer let me know the product direction management planned to take. So I presented this product demo after interview based on business requirements and product case analysis I did above:
+</td>
+<td width="50%">
 
-[boomerang-pathways-app](https://preview--boomerang-pathways-app.lovable.app/dashboard) 
+#### 🤝 Product Case Analysis: Includ
 
+**Focus:** Inclusive product design
 
-## Toastmaster AI coach
+**Key Skills:** Accessibility research, stakeholder analysis
 
-A public-speaking web app that acts like your personal AI Coach.
+</td>
+</tr>
+</table>
 
-This is personal project I am developing using Python, React, Typescript and PostgreSQL. It incorporates OpenAI API along with NLTK and Whisper.
+---
 
-[Toastmasters Coach - Website](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=1-2&t=MlNnxMR0nzXEOGul-1&starting-point-node-id=1%3A2)
+### 🛠️ Product Demos
+> *Interactive prototypes addressing real user problems*
 
+#### 💼 [SimplyInsured - Health Insurance Made Simple](https://preview--simply-care-proto.lovable.app/)
 
-## Connected Hearts
+<details>
+<summary><b>🎯 Problem Statement</b></summary>
+<br>
 
-A personal project created using Lovable made for couples who want to deepen their connection or use on a first few dates to help with spark.
+**Client Pain Points** (derived from BBB.org reviews):
+- ⏰ Extended wait times for customer support
+- 📞 Lack of proactive follow-up
+- ⚠️ No notification system for policy changes/cancellations
 
-The app allows you to simultaneously record answers after each prompt. It also does analysis on the answers and finds common grounds for couples to connect, while upleveling the questions. 
+**Solution Approach:**
+- Real-time customer support dashboard
+- Automated notification system
+- Transparent policy management interface
 
-[Connected Hearts - Website](https://preview--spark-conversations-ai-crafted.lovable.app/)
+**Tech Stack:** Lovable, Figma, React
 
-# Resume and Contact
+</details>
 
-Jasleen Deol
+---
 
-jasleen.k.deol@gmail.com
+#### 🎯 [Boomerang Pathways App](https://preview--boomerang-pathways-app.lovable.app/dashboard)
 
-Canada/USA, open to Remote
+<details>
+<summary><b>🎯 Product Context</b></summary>
+<br>
 
-[Resume - Product Manager](https://drive.google.com/file/d/1z24Uncn0DqgzQFkIgkTTZXjIBGJwGaDm/view?usp=sharing)
+**Background:** Created post-interview with Toronto-based startup based on insights from product designer about strategic direction
+
+**Delivered:**
+- Dashboard prototype aligned with business requirements
+- Feature set informed by comprehensive case analysis
+- Interactive demo showcasing product vision
+
+**Tech Stack:** Lovable, React
+
+</details>
+
+---
+
+#### 🎤 [Toastmasters AI Coach](https://www.figma.com/proto/as6PA96jKmy5fEWSjMm0zN/Toastmasters-Coach?node-id=1-2&t=MlNnxMR0nzXEOGul-1&starting-point-node-id=1%3A2)
+
+<details>
+<summary><b>🎯 Product Vision</b></summary>
+<br>
+
+**Concept:** Personal AI-powered public speaking coach
+
+**Features:**
+- 🎙️ Real-time speech analysis
+- 📊 Performance metrics & insights
+- 🤖 AI-driven coaching recommendations
+
+**Tech Stack:** Python, React, TypeScript, PostgreSQL, OpenAI API, NLTK, Whisper
+
+**Status:** 🚧 In Development
+
+</details>
+
+---
+
+#### ❤️ [Connected Hearts](https://preview--spark-conversations-ai-crafted.lovable.app/)
+
+<details>
+<summary><b>🎯 Product Innovation</b></summary>
+<br>
+
+**Problem Solved:** Surface-level conversations limiting relationship depth
+
+**Key Features:**
+- 🎯 AI-curated conversation prompts
+- 🎥 Simultaneous answer recording
+- 🤝 Common ground analysis
+- 📈 Progressive question difficulty
+
+**Impact:** Helps couples deepen connections through meaningful dialogue
+
+**Tech Stack:** Lovable, AI/ML integration
+
+</details>
+
+---
+
+## 🛠️ Product Management Toolkit
+
+<div align="center">
+
+### Core Competencies
+
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-Expert-6366F1?style=flat-square)
+![User Research](https://img.shields.io/badge/User_Research-Expert-6366F1?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Expert-6366F1?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Rapid_Prototyping-Expert-6366F1?style=flat-square)
+
+### Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Product Tools
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📈 What Makes My Approach Different
+
+```diff
++ Engineering background → Deep technical empathy with development teams
++ Hardware experience → Understanding of full product lifecycle
++ Aerospace industry → Rigorous approach to quality and safety
++ Public sector work → Focus on accessibility and inclusive design
++ UX strategy → User-centered thinking in every decision
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to Product Management opportunities | Passionate about AI-powered solutions | Ready to ship products that matter**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasleen-deol)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasleen.k.deol@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+  *"Building products is not about the features you ship, but the problems you solve"*
+  
+</div>
