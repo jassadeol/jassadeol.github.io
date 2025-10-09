@@ -1,10 +1,10 @@
-# Hi, I'm Jasleen Deol 👋 
+# Hi, I'm Jasleen Deol 👋
 
 <div align="center">
   
-   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Product+Thinker+%F0%9F%92%AD;Software+Engineer+%F0%9F%92%BB;UX+Strategist+%F0%9F%8E%A8;Building+Meaningful+Experiences+%E2%9C%A8)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B695C0&center=true&vCenter=true&width=600&lines=Product+Thinker+%F0%9F%92%AD;Software+Engineer+%F0%9F%92%BB;UX+Strategist+%F0%9F%8E%A8;Building+Meaningful+Experiences+%E2%9C%A8)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasleen-deol)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jasleen-deol)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasleen.k.deol@gmail.com)
   [![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1z24Uncn0DqgzQFkIgkTTZXjIBGJwGaDm/view?usp=sharing)
 
@@ -23,12 +23,12 @@ approach: Data-driven decisions + Human-centered design
 ### 📍 Career Journey
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#E6DFF0','primaryTextColor':'#2D3748','primaryBorderColor':'#9B7EBD','lineColor':'#9B7EBD','secondaryColor':'#F5E6F1','tertiaryColor':'#E6DFF0','background':'#FAFAFA','mainBkg':'#E6DFF0','secondBkg':'#F5E6F1'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FFE4E9','primaryTextColor':'#2D3748','primaryBorderColor':'#FF69B4','lineColor':'#FF69B4','secondaryColor':'#E8D5F2','tertiaryColor':'#FFE4E9','background':'#FFFFFF','mainBkg':'#FFE4E9','secondBkg':'#E8D5F2'}}}%%
 timeline
     title Professional Evolution
-    2021 : Fullstack Software/Systems Engineer
+    2021 : [Fullstack Software]/Systems Engineer
          : Aerospace Industry
-    2022 : B.Eng Computer Engineering & Management
+    2022 : Computer Engineering & Management
          : McMaster University
     2023 : Hardware Engineer (Pre-Silicon)
          : AMD
@@ -46,7 +46,7 @@ timeline
 <tr>
 <td width="25%" align="center">🏔️<br><b>Mountain Hiking</b></td>
 <td width="25%" align="center">💃<br><b>Salsa Dancing</b></td>
-<td width="25%" align="center">🎵<br><b>Music Teaching</b></td>
+<td width="25%" align="center">🎵<br><b>Teaching Music</b></td>
 <td width="25%" align="center">👨‍💻<br><b>Vibe Coding</b></td>
 </tr>
 </table>
@@ -218,7 +218,7 @@ timeline
 
 **Open to Product Management opportunities | Passionate about AI-powered solutions | Ready to ship products that matter**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasleen-deol)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasleen-deol)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasleen.k.deol@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
