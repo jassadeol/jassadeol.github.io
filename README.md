@@ -72,7 +72,7 @@ approach: Data-driven decisions + Human-centered design
 *Interactive prototypes addressing real user problems*
 
 <details>
-<summary><b>🏢 Freedom Mobile Customer Support Dashboard</b></summary>
+<summary><b>🏢 SimplyInsured - Health Insurance Made Simple </b></summary>
 
 #### 🎯 Problem Statement
 **Client Pain Points** (derived from BBB.org reviews):
@@ -90,7 +90,7 @@ approach: Data-driven decisions + Human-centered design
 </details>
 
 <details>
-<summary><b>📊 Strategic Product Dashboard (Startup Project)</b></summary>
+<summary><b>📊 Boomerang App (Startup Project)</b></summary>
 
 #### 🎯 Product Context
 **Background:** Created post-interview with Toronto-based startup based on insights from product designer about strategic direction
@@ -105,7 +105,7 @@ approach: Data-driven decisions + Human-centered design
 </details>
 
 <details>
-<summary><b>🎤 Upspeak - AI Public Speaking Coach</b></summary>
+<summary><b>🎤 Toastmaster AI Coach - AI Public Speaking Coach</b></summary>
 
 #### 🎯 Product Vision
 **Concept:** Personal AI-powered public speaking coach
@@ -122,7 +122,7 @@ approach: Data-driven decisions + Human-centered design
 </details>
 
 <details>
-<summary><b>❤️ Kindred - Relationship Deepening App</b></summary>
+<summary><b>❤️ Connected Hearts - Relationship Deepening App</b></summary>
 
 #### 🎯 Product Innovation
 **Problem Solved:** Surface-level conversations limiting relationship depth
