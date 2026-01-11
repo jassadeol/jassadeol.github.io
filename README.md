@@ -32,7 +32,7 @@ approach: Data-driven decisions + Human-centered design
 | **2023** | Hardware Engineer (Pre-Silicon) | AMD |
 | **2024** | Software Engineer | Aerospace Industry |
 | **2025** | Product Analyst | Public Sector |
-| **Now** | Product Manager (In Pursuit) | Tech × AI × Customer Success |
+| **2026** | AI Product Manager | Tech × AI × Customer Success |
 
 ---
 
