@@ -27,11 +27,12 @@ approach: Data-driven decisions + Human-centered design
 
 | Year | Role | Industry |
 |------|------|----------|
-| **2021** | Fullstack Software/Systems Engineer | Aerospace Industry |
-| **2022** | Computer Engineering & Management | McMaster University |
-| **2023** | Hardware Engineer (Pre-Silicon) | AMD |
-| **2024** | Software Engineer | Aerospace Industry |
-| **2025** | Product Analyst | Public Sector |
+| **2020** | Fullstack Software/Systems Engineer | Aerospace Industry |
+| **2021** | Computer Engineering & Management | McMaster University |
+| **2022** | Hardware Engineer (Pre-Silicon) | AMD |
+| **2023** | Software Engineer | Aerospace Industry |
+| **2024** | Product Analyst  | Public Sector |
+| **2025** | AI Product Manager & Lead | Startups |
 | **2026** | AI Product Manager | Tech × AI × Customer Success |
 
 ---
