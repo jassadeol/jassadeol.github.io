@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jasleen-deol"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:jasleen.k.deol@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/1p_trZZoiUGrJa-mdtiT3kKjLhTfEplbz/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1VYELftPMb7xarOBiBsHTbivf0UvZK6it/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ approach: Data-driven decisions + Human-centered design
 | **2023** | Software Engineer | Aerospace Industry |
 | **2024** | Product Analyst  | Public Sector |
 | **2025** | AI Product Manager & Lead | Startups |
-| **2026** | AI Product Manager | Tech × AI × Customer Success |
+| **2026** | Head of Product | Tech × AI × Customer Success |
 
 ---
 
@@ -150,7 +150,7 @@ approach: Data-driven decisions + Human-centered design
 
 ### Product Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Linear](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
